@@ -10,6 +10,6 @@ Provides an export library for XML generation according to the FINDOLOGIC export
 For more information se also our XML export Documentation https://docs.findologic.com/doku.php?id=xml_export_documentation:xml_format
 
 **FINDOLOGIC API** - [https://github.com/findologic/findologic-api](https://service.findologic.com/ps/centralized-frontend/spec/)
-1
+
 FINDOLOGIC-API is an object oriented wrapper for the Findologic API, with over 300 automated unit-tests and 100% code coverage.
 This library not only helps requesting the Findologic API, but also getting data from the response and mapping them to corresponding objects. You won't have to mess around with sending requests and getting the data from the Findologic's response anymore.
