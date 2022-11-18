@@ -1,0 +1,24 @@
+{
+  "name": "findologic/oxid",
+  "description": "Findologic search and navigation module for OXID eShop.",
+  "version": "1.0.0",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "shop", "Findologic", "search"],
+  "homepage": "https://www.findologic.com",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Findologic\\Oxid\\": "../../../source/modules/findologic/Oxid"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+
+  "extra": {
+    "oxideshop": {
+      "target-directory": "findologic/Oxid"
+    }
+  }
+}
