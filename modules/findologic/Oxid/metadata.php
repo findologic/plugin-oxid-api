@@ -6,7 +6,7 @@ $sMetadataVersion = '2.1';
 
 $aModule = [
     'id' => 'findologic_oxid',
-    'title' => 'Findologic1 search and navigation module for OXID eShop',
+    'title' => 'Findologic search and navigation module for OXID eShop',
     'description' => 'Findologic search and navigation module for OXID eShop<br><br>
                         <ul>
                             <li><a href="https://service.findologic.com/ps/centralized-frontend/spec/" target="_blank">FINDOLOGIC API Spec</a></li>
