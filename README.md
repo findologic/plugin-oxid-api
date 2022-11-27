@@ -1,12 +1,12 @@
-# FINDOLOGIC OXID API plugin
+* FINDOLOGIC OXID API plugin
 FINDOLOGIC offers a search solution for online shops, increasing hit quality and sales! With the FINDOLOGIC module, all functions are also available for OXID.
 The FINDOLOGIC search includes everything that a professional online shop needs, including error tolerance, auto-completion, search suggestions, intuitive filters, but also the free design of customer groups and the pushing of top sellers or remaining stock, to name just the most important.
 
-##Installation
+**Installation
 * Copy all files from the folder copy_this into the main directory of the shop.
 * Now activate the module "Findologic Search" in the admin area under "Extensions - Modules".
 
-##Ressources
+**Ressources
 
 **FINDOLOGIC API Spec** - [https://service.findologic.com/ps/centralized-frontend/spec/](https://service.findologic.com/ps/centralized-frontend/spec/)
 Available parameters and response formats for the FINDOLOGIC API are documented here. For more information on how to integrate FINDOLOGIC, check the documentation page below.
