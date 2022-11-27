@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8441546-6537-4164-8508-583183542f22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ccc-logo-300x109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findologic/copy_this/modules/findologic/Oxid/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +53,7 @@
       <workItem from="1669383847868" duration="978000" />
       <workItem from="1669544996021" duration="60000" />
       <workItem from="1669560177031" duration="947000" />
-      <workItem from="1669561156039" duration="107000" />
+      <workItem from="1669561156039" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1668790738848</created>
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669560482977</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="renamed files">
+      <created>1669561276321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669561276321</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
