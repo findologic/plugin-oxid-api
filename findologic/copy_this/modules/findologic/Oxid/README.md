@@ -12,4 +12,4 @@ For more information se also our XML export Documentation https://docs.findologi
 **FINDOLOGIC API** - [https://github.com/findologic/findologic-api](https://service.findologic.com/ps/centralized-frontend/spec/)
 
 FINDOLOGIC-API is an object oriented wrapper for the Findologic API, with over 300 automated unit-tests and 100% code coverage.
-Thise library not only helps requesting the Findologic API, but also getting data from the response and mapping them to corresponding objects. You won't have to mess around with sending requests and getting the data from the Findologic's response anymore.
+This library not only helps requesting the Findologic API, but also getting data from the response and mapping them to corresponding objects. You won't have to mess around with sending requests and getting the data from the Findologic's response anymore.
