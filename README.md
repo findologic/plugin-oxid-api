@@ -3,8 +3,8 @@ FINDOLOGIC offers a search solution for online shops, increasing hit quality and
 The FINDOLOGIC search includes everything that a professional online shop needs, including error tolerance, auto-completion, search suggestions, intuitive filters, but also the free design of customer groups and the pushing of top sellers or remaining stock, to name just the most important.
 
 ## Installation
-Copy all files from the folder copy_this into the main directory of the shop.
-Now activate the module "Findologic Search" in the admin area under "Extensions - Modules".
+* Copy all files from the folder copy_this into the main directory of the shop.
+* Now activate the module "Findologic Search" in the admin area under "Extensions - Modules".
 
 ## Ressources
 
